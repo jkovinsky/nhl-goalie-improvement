@@ -1,2 +1,2 @@
 # nhl-goalie-improvement
-Predicts whether a goalie will improve or not improve for next season using Binary Classification
+Project Submission for the 2024-25 Utah Hockey Club Summer Analytics Challenge
